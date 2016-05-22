@@ -15,9 +15,13 @@ git remote add origin https://github.com/kosomi/Azure_board.git<br>
 git push -u origin master<br>
 <br>
 <br>
+<img src="https://github.com/kosomi/Azure_board/blob/master/1.png"><br>
 <br>
-<br><br>
+<img src="https://github.com/kosomi/Azure_board/blob/master/2.png"><br>
 <br>
+<img src="https://github.com/kosomi/Azure_board/blob/master/3.png"><br>
+<br>
+<img src="https://github.com/kosomi/Azure_board/blob/master/4.png"><br> 
 <br>
 source from..<br>
 <br>
