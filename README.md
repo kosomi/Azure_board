@@ -25,4 +25,6 @@ git push -u origin master<br>
 <br>
 source from..<br>
 <br>
-http://blog.naver.com/azure0777/220689427755<br>
+블로그 주소   : http://blog.naver.com/azure0777/220689427755  <br>
+전체 소스코드 : https://github.com/imtaekh/my_app/tree/58ad81777857056f5f2ecf2c92fed3f40559f269  <br>  <br>
+테스트 사이트 : https://azure0777board.herokuapp.com   <br>
